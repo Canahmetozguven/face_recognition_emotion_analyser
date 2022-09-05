@@ -1,13 +1,4 @@
----
-title: Happy Or Sad
-emoji: 📊
-colorFrom: gray
-colorTo: blue
-sdk: streamlit
-sdk_version: 1.10.0
-app_file: app.py
-pinned: false
-license: apache-2.0
----
+# Face emotion recognition app (With fastai)
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+If you want to use this app you can visit the link below:
+[Hugging Face App](https://huggingface.co/spaces/aipsychologicalcounselor/sad_or_happy)
